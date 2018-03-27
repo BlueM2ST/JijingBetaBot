@@ -5,6 +5,7 @@ A basic form of Jijing.
 
 Over time, more features and optimizations will be added.
 Mainly, I'll be adding features from my other bots into this one.
+For customization or to request features, you can DM me on Twitter [@BlueM1ST](https://twitter.com/BlueM1ST)
 
 # Features
 Host a beta on your Discord server!
